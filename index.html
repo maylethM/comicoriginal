@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+    </head>
+    <body>
+        <div id="demo">
+        </div>
+        <script>
+			console.log( "Esto esta funcionando." ); 
+			loadXMLDoc();
+			
+			function loadXMLDoc()
+			{
+				var xmlhttp= new XMLHttpRequest();
+				xmlhttp.onreadystatechange = function()
+				{
+					if(xmlhttp.readyState==4 && xmlhttp.status==200)
+					{
+						console.log( "Ha cargado el xml." ); 
+						document.getElementById("demo").innerHTML= trabajar_apariencia(xmlhttp);
+					}
+				};
+				xmlhttp.open("GET","note2.xml",true);
+				xmlhttp.send();
+			}
+			
+			function trabajar_apariencia(xml)
+			{
+				var i;
+				var xmlDoc=xml.responseXML;
+				var escena_html="";
+				var x = xmlDoc.getElementsByTagName("note");
+				var campo1="";
+				var campo2="";
+				var campo3="";
+				var campo4="";
+				var campo5="";
+				var campo6="";
+				var campo7="";
+				var campo8="";
+				var campo9="";
+				console.log( "Ha empezado la alteracion del html." ); 
+				
+				for (i=0; i<x.length; i++)
+				{
+					campo1 = x[i].getElementsByTagName("personaje1")[0].childNodes[0].nodeValue;
+					campo2 = x[i].getElementsByTagName("personaje2")[0].childNodes[0].nodeValue;
+					campo3 = x[i].getElementsByTagName("foto")[0].childNodes[0].nodeValue;
+					campo4 = x[i].getElementsByTagName("width")[0].childNodes[0].nodeValue;
+					campo6 = x[i].getElementsByTagName("left")[0].childNodes[0].nodeValue;
+					campo5 = x[i].getElementsByTagName("top")[0].childNodes[0].nodeValue;
+					campo7 = x[i].getElementsByTagName("width1")[0].childNodes[0].nodeValue;
+					campo8 = x[i].getElementsByTagName("top1")[0].childNodes[0].nodeValue;
+					campo9 = x[i].getElementsByTagName("left1")[0].childNodes[0].nodeValue;
+					console.log( campo1);
+					escena_html += colocar_escena(campo1, campo2, campo3,campo4,campo5,campo6,campo7,campo8,campo9);
+				}
+				return escena_html;
+			}
+			
+			function colocar_escena(dialogo1,dialogo2,foto,width,top,left,width1,top1,left1)
+			{
+				var salida="";
+				salida +="<div align='center' id='container' class='container'>";
+				salida +="<div class='row'>";
+				salida +="<div class='col-xs-2'></div>";
+				salida +="<div class='col-xs-8'>";
+				salida +="<img  src='"+foto+"' width='100%'><br>";
+				salida +="<div style='position:absolute; width="+width+";left:"+left+"; top:"+top+";text-align: justify;font-size: 11px;'>";
+				salida +=dialogo1;
+				salida +="</div>";
+				salida +="<div style='position:absolute; width="+width1+";left:"+left1+"; top:"+top1+";text-align: justify;font-size: 11px;'>";
+				salida +=dialogo2;
+				salida +="</div>";
+				salida +="</div>";
+				salida +="<div class='col-xs-2'></div>";
+				salida +="</div>";
+				salida +="</div>";
+				salida +="<br>";
+				return salida;
+			}
+        </script>
+    </body>
+</html>
+

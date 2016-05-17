@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+	<note>
+	  <from>Jani</from>
+	  <to>Tove</to>
+	  <message>Remember me this weekend</message>
+	  <personaje1>¿Hola como estás?</personaje1>
+	  <personaje2>¿Bien pelao, y usted?</personaje2>
+	</note>
+	<note>
+	  <from>Alfred</from>
+	  <to>Sasha</to>
+	  <message>Soccer game tonight</message>
+	  <personaje1><![CDATA[Ahi voy, <br>tratando de entender este tema<![CDATA[]]></personaje1>
+	  <personaje2>Está complicado.</personaje2>
+	</note>
+	<note>
+	  <from>Chigo</from>
+	  <to>Amit</to>
+	  <message>Play with Xbox better.</message>
+	  <personaje1>No tanto, hay que dedicarle tiempo.</personaje1>
+	  <personaje2>Supongo, como a todo.</personaje2>
+	</note>
+</mensaje>
+

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+	<note>
+	  <from>May</from>
+	  <to>Julio</to>
+	  <message>conversacion</message>
+	  <personaje1>Buenos días,me&lt;br /&gt;regala un computador&lt;br /&gt; por favor.</personaje1>
+	  <personaje2>Permítame un momento&lt;br /&gt; reviso si hay disponibles.</personaje2>
+	  <foto>a.jpg</foto>
+	  <width>120px</width>
+	  <top>35px</top>
+	  <left>255px</left> 
+	  <width1>120px</width1>
+	  <top1>40px</top1>
+	  <left1>435px</left1>
+	</note>
+	<note>
+	  <from>May</from>
+	  <to>Julio</to>
+	  <message>conversacion</message>
+	  <personaje1>¿Como asi?</personaje1>
+	  <personaje2>Lo siento,&lt;br /&gt; no tenemos ninguno</personaje2>
+	  <foto>a.jpg</foto>
+	  <width>120px</width>
+	  <top>50px</top>
+	  <left>270px</left> 
+	  <width1>120px</width1>
+	  <top1>40px</top1>
+	  <left1>435px</left1>
+	</note>
+	<note>
+	  <from>Julio</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Jefe se acabaron &lt;br /&gt;los computadores.</personaje1>
+	  <personaje2>Espere ya me comunico &lt;br /&gt; con los proveedores</personaje2>
+	  <foto>b.jpg</foto>
+	  <width>120px</width>
+	  <top>50px</top>
+	  <left>230px</left> 
+	  <width1>120px</width1>
+	  <top1>170px</top1>
+	  <left1>585px</left1>
+	</note>
+	<note>
+	  <from>May</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Necesito 100 computadores &lt;br /&gt; que precios &lt;br /&gt;y condiciones ofrece.</personaje1>
+	  <personaje2>Baratijas SA,  &lt;br /&gt;en que le podemos servir.</personaje2>
+	  <foto>e.jpg</foto>
+	  <width>120px</width>
+	  <top>190px</top>
+	  <left>150px</left> 
+	  <width1>120px</width1>
+	  <top1>35px</top1>
+	  <left1>350px</left1>
+	</note>
+	<note>
+	  <from>May</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>¿No manejan  &lt;br /&gt; ICONTERMS?</personaje1>
+	  <personaje2>Los 100 computadores le salen a $10.000 dólares&lt;br /&gt; y usted deberá recogerlos personalmente.</personaje2>
+	  <foto>d.jpg</foto>
+	  <width>120px</width>
+	  <top>140px</top>
+	  <left>125px</left> 
+	  <width1>120px</width1>
+	  <top1>20px</top1>
+	  <left1>455px</left1>
+	</note>
+	<note>
+	  <from>May</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Son las condiciones&lt;br /&gt; internacionales de entrega en &lt;br /&gt;  procesos de compraventa &lt;br /&gt; de mercancía. </personaje1>
+	  <personaje2>¿Qué es eso wey?</personaje2>
+	  <foto>d.jpg</foto>
+	  <width>120px</width>
+	  <top>140px</top>
+	  <left>110px</left> 
+	  <width1>120px</width1>
+	  <top1>20px</top1>
+	  <left1>530px</left1>
+	</note>
+	<note>
+	 <from>May</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Si tranquilo de los aranceles me encargo yo,&lt;br /&gt; ya que la jurisdicción colombiana a través de&lt;br /&gt; diferentes mecanismos, realiza reducciones en&lt;br /&gt; los pagos de impuestos con el fin&lt;br /&gt; de promover la actividad importadora. &lt;br /&gt;Por otra parte ¿Cómo haríamos el pago?&lt;br /&gt;  </personaje1>
+	  <personaje2>¡Ahhh!;si  quiere que nosotros lo enviemos,&lt;br /&gt; deberá pagar $5000 dólares más, siempre y&lt;br /&gt; cuando usted los reciba en el puerto, &lt;br /&gt;además deberá asumir el pago de los aranceles&lt;br /&gt; de importación. </personaje2>
+	  <foto>h.jpg</foto>
+	  <width>120px</width>
+	  <top>220px</top>
+	  <left>130px</left> 
+	  <width1>120px</width1>
+	  <top1>30px</top1>
+	  <left1>440px</left1>
+	</note>
+	<note>
+	 <from>May</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Gracias por la información cualquier cosa&lt;br /&gt; nosotros lo llamamos que tenga un buen día. </personaje1>
+	  <personaje2>Eso es sencillo wey, yo tengo un primo&lt;br /&gt;que está en Colombia, tan pronto usted le&lt;br /&gt; entregue la lana, yo le envió la merca.&lt;br /&gt; ¿Le parece?</personaje2>
+	  <foto>e.jpg</foto>
+	  <width>120px</width>
+	  <top>195px</top>
+	  <left>125px</left> 
+	  <width1>120px</width1>
+	  <top1>20px</top1>
+	  <left1>310px</left1>
+	</note>
+	<note>
+	 <from>May</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>A ver, ¿Como asi que un primo que vive en &lt;br /&gt;  Colombia?Ni siquiera hablo de la forma W8 BEN.&lt;br /&gt;para evitar las retenciones de impuestos&lt;br /&gt;por realizar negocios con empresas de USA&lt;br /&gt;mejor llamo a otro proveedor</personaje1>
+	  <personaje2>&lt;br /&gt;</personaje2>
+	  <foto>f.jpg</foto>
+	  <width>120px</width>
+	  <top>55px</top>
+	  <left>355px</left> 
+	  <width1>120px</width1>
+	  <top1>10px</top1>
+	  <left1>310px</left1>
+	</note>
+	<note>
+	 <from>Julio</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>INDUSOFT SA, en que le podemos servir.</personaje1>
+	  <personaje2>Necesito 100 computadores &lt;br /&gt; que precios &lt;br /&gt;y condiciones ofrece.</personaje2>
+	  <foto>g.jpg</foto>
+	  <width>120px</width>
+	  <top>40px</top>
+	  <left>255px</left> 
+	  <width1>120px</width1>
+	  <top1>170px</top1>
+	  <left1>500px</left1>
+	</note>
+		<note>
+	 <from>Julio</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Los 100 computadores le salen a $25.000 dólares,&lt;br /&gt; y el envió se realizaría bajo las condiciones EXW&lt;br /&gt; de los ICONTERMS, ósea, nosotros le entregaríamos&lt;br /&gt; la mercancía en la puerta de su negocio.</personaje1>
+	  <personaje2>Me parece excelente, pero&lt;br /&gt; ¿si realizan los envíos hasta Miami?</personaje2>
+	  <foto>n.jpg</foto>
+	  <width>120px</width>
+	  <top>35px</top>
+	  <left>270px</left> 
+	  <width1>120px</width1>
+	  <top1>210px</top1>
+	  <left1>490px</left1>
+	</note>
+		<note>
+	 <from>Julio</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Si,  gracias a los tratados de libre comercio&lt;br /&gt; que nos permiten comercializar libremente&lt;br /&gt; nuestros productos sin aranceles.  </personaje1>
+	  <personaje2>¿cómo se efectuaría  la compra?</personaje2>
+	  <foto>g.jpg</foto>
+	  <width>120px</width>
+	  <top>35px</top>
+	  <left>255px</left> 
+	  <width1>120px</width1>
+	  <top1>180px</top1>
+	  <left1>490px</left1>
+	</note>
+		<note>
+	 <from>Julio</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Para ello realizaremos un contrato siguiendo&lt;br /&gt; los parámetros de la Convención de las Naciones&lt;br /&gt; Unidas sobre los Contratos de Compraventa&lt;br /&gt; Internacional de Mercaderías, estipulando allí&lt;br /&gt; las condiciones de entrega y las formas de pago.</personaje1>
+	  <personaje2>A propósito  del pago, &lt;br /&gt;¿cómo se realizaría?&lt;br /&gt; ¿Se puede de forma electrónica? </personaje2>
+	  <foto>n.jpg</foto>
+	  <width>120px</width>
+	  <top>25px</top>
+	  <left>275px</left> 
+	  <width1>120px</width1>
+	  <top1>190px</top1>
+	  <left1>495px</left1>
+	</note>
+	<note>
+	 <from>Julio</from>
+	  <to>May</to>
+	  <message>conversacion</message>
+	  <personaje1>Según la Convención de las Naciones Unidas sobre la &lt;br /&gt;Utilización de las Comunicaciones Electrónicas en los &lt;br /&gt;Contratos Internacionales, los pagos &lt;br /&gt;se pueden realizar bajo esta modalidad,&lt;br /&gt; ya que agilizan los trámites y cuentan con respaldo&lt;br /&gt; en materia de seguridad por&lt;br /&gt; parte de las entidades bancarias.</personaje1>
+	  <personaje2>Muchas gracias por la información,&lt;br /&gt; en horas de la tarde lo llamaremos&lt;br /&gt; para acordar la compra. </personaje2>
+	  <foto>n.jpg</foto>
+	  <width>120px</width>
+	  <top>25px</top>
+	  <left>275px</left> 
+	  <width1>120px</width1>
+	  <top1>190px</top1>
+	  <left1>495px</left1>
+	</note>
+</mensaje>
+
